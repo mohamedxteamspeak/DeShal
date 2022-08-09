@@ -7,7 +7,7 @@ apt update && apt upgrade
 apt-get install python
 apt-get install python2
 apt-get install git
-git clone https://github.com/KANG-NEWBIE/DeShal
+git clone https://github.com/mohamedxteamspeak/DeShal
 cd DeShal
 python -m pip install uncompyle6
 python2 -m pip install uncompyle6
